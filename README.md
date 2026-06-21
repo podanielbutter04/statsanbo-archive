@@ -1,2 +1,14 @@
 # statsanbo-archive
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
